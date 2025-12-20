@@ -24,7 +24,7 @@ During the development of the portfolio, we applied the main concepts of web dev
  
 ---
 
-✅- `Extensions`, `CTRL` + `SHIFT` + `X`, Install **Live Server**
+`Extensions`, `CTRL` + `SHIFT` + `X`, Install **Live Server**
 
 ###
 
@@ -33,19 +33,6 @@ During the development of the portfolio, we applied the main concepts of web dev
 ###
 
 This portfolio project was developed with the goal of applying and improving my Front-End knowledge by creating a complete web page for delivery. It's an easy project that includes a brief context, explanations, documentation, summaries, exercises, and answers! 
-
-###
-
-**<h2>Tools Used:</h2>**
- 
-###
-
-✅ Figma: Prototyping planning ;<br>
-✅ HTML: Semantic base;<br>
-✅ CSS: Stylization and responsiveness;<br>
-✅ JS: Interactivity;<br>
-✅ GitHub: Documentation;<br>
-✅ VS Code: Code editor where the portfolio was developed.
 
 ###
 
@@ -85,14 +72,3 @@ This portfolio project was developed with the goal of applying and improving my 
 - **Effect**: Futuristic and modern.
 
 ---
-
-**<h2>Contributions:</h2>**
-
-###
-
-Pull Requests are welcome! For changes or suggestions, please open an issue to discuss what you would like to change or contribute!
-
-###
-
-
-
