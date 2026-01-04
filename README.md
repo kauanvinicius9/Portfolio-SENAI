@@ -72,9 +72,3 @@ This portfolio project was developed with the goal of applying and improving my 
 - **Effect**: Futuristic and modern.
 
 ---
-
-**<h2>Home Screen</h2>**
-
-###
-
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/a2020b9d-4de9-4679-b78d-ef53cdd6c944" />
