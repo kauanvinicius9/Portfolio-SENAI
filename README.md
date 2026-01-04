@@ -70,5 +70,3 @@ This portfolio project was developed with the goal of applying and improving my 
 - **Black**: Mystery and power;
 - **Gray**: Balance and neutrality;
 - **Effect**: Futuristic and modern.
-
----
